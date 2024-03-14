@@ -1,2 +1,2 @@
-# Maya
+Maya
 Crazy Time
